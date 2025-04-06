@@ -106,7 +106,7 @@ This server setup follows Express.js best practices by:
 
 ## Route Handling
 
-The `server/routes/categories.js` file demonstrates Express.js route handling for category management in the CollectTracker application:
+The `server/routes/categories.js`(https://github.com/Bighairymtnman/CollectTracker/blob/main/server/routes/categories.js) file demonstrates Express.js route handling for category management in the CollectTracker application:
 
 ```javascript
 const express = require("express");
@@ -172,7 +172,6 @@ router.post("/collections/:id/categories", async (req, res) => {
 });
 
 // Additional routes omitted for brevity
-// Full code available at: https://github.com/Bighairymtnman/CollectTracker/blob/main/server/routes/categories.js
 ```
 
 ### Key Express.js Concepts Demonstrated:
@@ -226,7 +225,7 @@ This route file demonstrates how Express.js enables the creation of clean, organ
 
 ## Advanced Route Handling
 
-The `server/routes/collections.js` file demonstrates more complex Express.js route handling, including file uploads and relationship management:
+The `server/routes/collections.js`(https://github.com/Bighairymtnman/CollectTracker/blob/main/server/routes/collections.js) file demonstrates more complex Express.js route handling, including file uploads and relationship management:
 
 ```javascript
 const express = require("express");
@@ -320,7 +319,6 @@ router.get("/items/:itemId/image", async (req, res) => {
 });
 
 // Additional routes omitted for brevity
-// Full code available at: https://github.com/Bighairymtnman/CollectTracker/blob/main/server/routes/collections.js
 ```
 
 ### Key Express.js Concepts Demonstrated:
