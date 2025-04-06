@@ -1,6 +1,6 @@
 # Collect Tracker Express.js Example
 
-This document analyzes a real-world Express.js application from the CollectTracker project, explaining how Express concepts are implemented in practice. CollectTracker is a collection tracking application for desktop developed by Bighairymtnman.
+This document analyzes a real-world Express.js application from my CollectTracker project, explaining how Express concepts are implemented in practice. CollectTracker is a collection tracking application for desktop developed by Bighairymtnman.
 
 **Project Repository:** [Bighairymtnman/CollectTracker](https://github.com/Bighairymtnman/CollectTracker)
 
