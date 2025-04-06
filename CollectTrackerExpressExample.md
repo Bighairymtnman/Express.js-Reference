@@ -377,7 +377,7 @@ This route file demonstrates how Express.js can handle complex API requirements 
 
 ## Database Integration
 
-The `server/utils/initDb.js`(https://github.com/Bighairymtnman/CollectTracker)file demonstrates how database initialization is handled in the Express.js application:
+The `server/utils/initDb.js`(https://github.com/Bighairymtnman/CollectTracker/blob/main/server/utils/initDb.js)file demonstrates how database initialization is handled in the Express.js application:
 
 ```javascript
 const db = require("../db.config");
