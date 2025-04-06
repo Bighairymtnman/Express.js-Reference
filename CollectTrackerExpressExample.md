@@ -13,7 +13,7 @@ This document analyzes a real-world Express.js application from my CollectTracke
 
 ## Server Setup and Configuration
 
-The main server file (`server/index.js`) demonstrates how to set up an Express application with necessary middleware and route configurations:
+The main server file (`server/index.js`)(https://github.com/Bighairymtnman/CollectTracker/blob/main/server/index.js) demonstrates how to set up an Express application with necessary middleware and route configurations:
 
 ```javascript
 const express = require("express");
